@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hover-item {
+  cursor: pointer;
+}
+
+.hover-item:hover {
+  background-color: rgb(233, 231, 231);
+  cursor: pointer;
+}
+
+.btnA {
+  background-color: #fff;
+  border: 1px solid #46139f;
+  color: #46139f;
+}
+
+.btnB {
+  background-color: #fff;
+  border: 1px solid #46139f;
+  color: #ff7f50;
+}
+
+.BtnC {
+  background-color: #fff;
+  border: 1px solid #46139f;
+  color: black;
+}
